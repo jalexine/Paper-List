@@ -12,11 +12,14 @@ I take notes following this [method](https://jalexine.github.io/fix-your-paper-r
 
 ## 2. Systems & Infra
 - [SC 2017] Efficient Large-Scale Deep Learning on GPU Clusters Using Megatron’s Ring-AllReduce, [arXiv](https://arxiv.org/abs/2104.04473)
-- [arXiv 2022.05] **FlashAttention**, [arXiv](https://arxiv.org/abs/2205.14135)  
+- [arXiv 2022.05] **FlashAttention**, [arXiv](https://arxiv.org/abs/2205.14135)
+- [arXiv 2023] **FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning**, [arXiv](https://arxiv.org/abs/2307.08691)
 - [Blog 2025.03] **Memory is Slow, Disk is Fast**, [blog](https://www.bitflux.ai/blog/memory-is-slow-part1/)  
 - [arXiv 2019.09] **Megatron-LM**, [arXiv](https://arxiv.org/abs/1909.08053)  
 - [arXiv 2022.09] **Monolith**, [arXiv](https://arxiv.org/abs/2209.07663)
 - [arXiv 2025.10] **The Art of Scaling Reinforcement Learning Compute for LLMs**, [arXiv](file:///Users/alexine/Downloads/2510.13786v1.pdf)
+- [NIPS 2012] **Large Scale Distributed Deep Networks**, [PDF](https://www.cs.toronto.edu/~ranzato/publications/DistBeliefNIPS2012_withAppendix.pdf)
+
 
 ## 3. Agents & Workflows
 - [NeurIPS 2017] **Deep RL from Human Preferences (RLHF)**, [arXiv](https://arxiv.org/abs/1706.03741)  
@@ -26,3 +29,6 @@ I take notes following this [method](https://jalexine.github.io/fix-your-paper-r
 - [arXiv 2024.04] **RL Razor**, [arXiv](https://arxiv.org/abs/2404.05858)  
 - [Target 2025] **Self-Rewarding Vision-Language Model via Reasoning Decomposition**, [arXiv](https://arxiv.org/abs/...)  
 - [ICLR 2023] **Generative Agents: Interactive Simulacra of Human Behavior**, [arXiv](https://arxiv.org/abs/2304.03442)
+
+
+- [Meta AI 2024] **SAM3: Segment Anything in Videos with Memory**, [arXiv](https://arxiv.org/abs/2408.00714)
