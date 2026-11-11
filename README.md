@@ -11,7 +11,7 @@ I take notes following this [method](https://jalexine.github.io/fix-your-paper-r
 - [arXiv 2020.01] **Scaling Laws for Neural Language Models**, [arXiv](https://arxiv.org/abs/2001.08361)
 
 ## 2. Systems & Infra
-- [SC 2017] Efficient Large-Scale Deep Learning on GPU Clusters Using Megatron’s Ring-AllReduce, [arXiv](https://arxiv.org/abs/2104.04473)
+- [SC 2021] Efficient Large-Scale Language Model Training on GPU Clusters Using Megatron-LM, [arXiv](https://arxiv.org/abs/2104.04473)
 - [arXiv 2022.05] **FlashAttention**, [arXiv](https://arxiv.org/abs/2205.14135)
 - [arXiv 2023] **FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning**, [arXiv](https://arxiv.org/abs/2307.08691)
 - [Blog 2025.03] **Memory is Slow, Disk is Fast**, [blog](https://www.bitflux.ai/blog/memory-is-slow-part1/)  
@@ -43,8 +43,8 @@ I take notes following this [method](https://jalexine.github.io/fix-your-paper-r
 - [ICLR 2026] **Self-Rewarding Vision-Language Model via Reasoning Decomposition**, [arXiv](https://arxiv.org/abs/2508.19652)   
 - [arXiv 2023.09] **SeeClick: Harnessing Web Interfaces for Generalizable Reinforcement Learning Agents**, [arXiv](https://arxiv.org/abs/2309.13007)
 - [arXiv 2020.09] **Learning to Summarize with Human Feedback**, [arXiv](https://arxiv.org/abs/2009.01325)  
-- [arXiv 2024.04] **RL Razor**, [arXiv](https://arxiv.org/abs/2404.05858)  
+- [ICLR 2026] **RL's Razor: Why Online Reinforcement Learning Forgets Less**, [arXiv](https://arxiv.org/abs/2509.04259)  
 - [ICLR 2023] **Generative Agents: Interactive Simulacra of Human Behavior**, [arXiv](https://arxiv.org/abs/2304.03442)
 
 
-- [Meta AI 2024] **SAM3: Segment Anything in Videos with Memory**, [arXiv](https://arxiv.org/abs/2408.00714)
+- [ICLR 2026] **SAM 3: Segment Anything with Concepts**, [arXiv](https://arxiv.org/abs/2511.16719)
