@@ -31,11 +31,12 @@ I take notes following this [method](https://jalexine.github.io/fix-your-paper-r
 - [arXiv 2026.07] **DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation**, [arXiv](https://arxiv.org/abs/2607.05147)
 
 
-## 4. GPU Kernels & Megakernels (Hazy Research)
+## 4. GPU Kernels & Megakernels
 - [ICLR 2025] **ThunderKittens: Simple, Fast, and Adorable AI Kernels**, [arXiv](https://arxiv.org/abs/2410.20399)
 - [Blog 2025.05] **Look Ma, No Bubbles! Designing a Low-Latency Megakernel for Llama-1B**, [blog](https://hazyresearch.stanford.edu/blog/2025-05-27-no-bubbles)
 - [Blog 2025.09] **We Bought the Whole GPU, So We're Damn Well Going to Use the Whole GPU**, [blog](https://hazyresearch.stanford.edu/blog/2025-09-28-tp-llama-main)
 - [arXiv 2026.09] **Mixture-of-Kittens: MoE Megakernel for NVL72s**, [arXiv](https://arxiv.org/abs/2609.36070)
+- [arXiv 2026.03] **AutoKernel: Autonomous GPU Kernel Optimization via Iterative Agent-Driven Search**, [arXiv](https://arxiv.org/abs/2603.21331)
 
 
 ## 5. Agents & Workflows
