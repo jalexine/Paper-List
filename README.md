@@ -5,7 +5,7 @@ I take notes following this [method](https://jalexine.github.io/fix-your-paper-r
 
 
 ## 1. Foundations & Core ML
-- [NeurIPS 2017] **Attention Is All You Need**, [arXiv](https://arxiv.org/pdf/1706.03741)  
+- [NeurIPS 2017] **Attention Is All You Need**, [arXiv](https://arxiv.org/abs/1706.03762)  
 - [NAACL 2018] **BERT**, [arXiv](https://arxiv.org/abs/1810.04805)
 - [arXiv 2025.10] **Less is More: Recursive Reasoning with Tiny Networks**, [arXiv](https://arxiv.org/pdf/2510.04871)
 - [arXiv 2020.01] **Scaling Laws for Neural Language Models**, [arXiv](https://arxiv.org/abs/2001.08361)
@@ -17,7 +17,7 @@ I take notes following this [method](https://jalexine.github.io/fix-your-paper-r
 - [Blog 2025.03] **Memory is Slow, Disk is Fast**, [blog](https://www.bitflux.ai/blog/memory-is-slow-part1/)  
 - [arXiv 2019.09] **Megatron-LM**, [arXiv](https://arxiv.org/abs/1909.08053)  
 - [arXiv 2022.09] **Monolith**, [arXiv](https://arxiv.org/abs/2209.07663)
-- [arXiv 2025.10] **The Art of Scaling Reinforcement Learning Compute for LLMs**, [arXiv](file:///Users/alexine/Downloads/2510.13786v1.pdf)
+- [arXiv 2025.10] **The Art of Scaling Reinforcement Learning Compute for LLMs**, [arXiv](https://arxiv.org/abs/2510.13786)
 - [NIPS 2012] **Large Scale Distributed Deep Networks**, [PDF](https://www.cs.toronto.edu/~ranzato/publications/DistBeliefNIPS2012_withAppendix.pdf)
 - [SOSP 2023] **Efficient Memory Management for Large Language Model Serving with PagedAttention**, [arXiv](https://arxiv.org/abs/2309.06180)
 
@@ -40,11 +40,10 @@ I take notes following this [method](https://jalexine.github.io/fix-your-paper-r
 
 ## 5. Agents & Workflows
 - [NeurIPS 2017] **Deep RL from Human Preferences (RLHF)**, [arXiv](https://arxiv.org/abs/1706.03741)  
-- [Target 2025] **Self-Rewarding Vision-Language Model via Reasoning Decomposition**, [arXiv](https://arxiv.org/abs/...)   
+- [ICLR 2026] **Self-Rewarding Vision-Language Model via Reasoning Decomposition**, [arXiv](https://arxiv.org/abs/2508.19652)   
 - [arXiv 2023.09] **SeeClick: Harnessing Web Interfaces for Generalizable Reinforcement Learning Agents**, [arXiv](https://arxiv.org/abs/2309.13007)
 - [arXiv 2020.09] **Learning to Summarize with Human Feedback**, [arXiv](https://arxiv.org/abs/2009.01325)  
 - [arXiv 2024.04] **RL Razor**, [arXiv](https://arxiv.org/abs/2404.05858)  
-- [Target 2025] **Self-Rewarding Vision-Language Model via Reasoning Decomposition**, [arXiv](https://arxiv.org/abs/...)  
 - [ICLR 2023] **Generative Agents: Interactive Simulacra of Human Behavior**, [arXiv](https://arxiv.org/abs/2304.03442)
 
 
